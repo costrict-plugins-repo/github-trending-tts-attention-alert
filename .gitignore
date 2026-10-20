@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+*.swp
+*.bak
+*.tmp
+
+# Supertonic dev-only — venv + sample comparison WAVs are not shipped
+.venv-supertonic/
+audio/samples/
